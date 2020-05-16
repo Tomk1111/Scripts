@@ -1,7 +1,7 @@
 # Scripts
 
 ## <b>create.sh</b>
-This script is used to create a github repo and set a workspace locally for the repo from the command line. I developed this script to shorten the process of setting up a new flutter project. 
+This script is used to create a private github repo and set a workspace locally for the repo from the command line. I developed this script to shorten the process of setting up a new flutter project. 
 ### <b>Usage</b>
 Basic Repo creation</b>
 ```bash
