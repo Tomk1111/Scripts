@@ -7,11 +7,12 @@ Basic Repo creation</b>
 ```bash
 ./create.sh my_repo
 ```
-Create repo and tag with portfolio topic
+Create repo and tag with portfolio topic<br>
 ```bash
 ./create.sh my_repo -p
 ```
-Create repo and setup flutter project
+<br>
+Create repo and setup flutter project<br>
 ```bash
 ./create.sh my_repo -f
 ```
